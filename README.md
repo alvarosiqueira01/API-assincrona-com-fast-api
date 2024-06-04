@@ -1,2 +1,2 @@
 # API-assincrona-com-fast-api
-Desafio de projeto "Desenvolvendo uma API com Fast api, Python e Docker" do curso "Explorando o Fast api na prática com TDD" da DIO.
+Desafio de projeto "Desenvolvendo sua primeira API com FastAPI, Python e Docker" do curso "Explorando o FastAPI na prática com TDD" da DIO.
